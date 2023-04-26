@@ -1,5 +1,5 @@
 
-This is an example of a sunburst diagram using NextJS and D3.
+This is an example of a sunburst diagram using NextJS and D3, based on [andrewchmr's guide](https://dev.to/andrewchmr/react-d3-sunburst-chart-3cpd).
 
 <details>
 
